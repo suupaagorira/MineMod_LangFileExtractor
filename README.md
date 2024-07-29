@@ -1,0 +1,2 @@
+# MineMod_LangFileExtractor
+minecraftのmodファイルの言語ファイルを抽出および、格納を行うツール
